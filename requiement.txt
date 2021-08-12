@@ -1,0 +1,11 @@
+extra section 2ta:
+1.fixed image(if possible)
+2.1 ta form (questions)
+3.testimonial by css transform if can work like carousel
+
+
+color
+Change later, first fulfill the Requirements
+
+image 
+na change korbo na
